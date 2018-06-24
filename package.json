@@ -1,6 +1,6 @@
 {
   "name": "@amokrushin/webpack-serve",
-  "version": "1.0.5",
+  "version": "1.1.1",
   "description": "A lean, modern, and flexible webpack development server",
   "license": "MIT",
   "repository": "webpack-contrib/webpack-serve",
