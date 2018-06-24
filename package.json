@@ -29,6 +29,8 @@
     "webpack": "^4.0.0"
   },
   "dependencies": {
+    "@amokrushin/koa-webpack": "^4.0.0",
+    "@amokrushin/webpack-hot-client": "^3.0.0",
     "@shellscape/koa-static": "^4.0.4",
     "@webpack-contrib/config-loader": "^1.1.1",
     "chalk": "^2.3.0",
@@ -40,7 +42,8 @@
     "import-local": "^1.0.0",
     "killable": "^1.0.0",
     "koa": "^2.4.1",
-    "@amokrushin/koa-webpack": "^4.0.0",
+    "koa-conditional-get": "^2.0.0",
+    "koa-etag": "^3.0.0",
     "lodash": "^4.17.5",
     "loud-rejection": "^1.6.0",
     "meow": "^5.0.0",
@@ -51,7 +54,6 @@
     "update-notifier": "^2.3.0",
     "url-join": "3.0.0",
     "v8-compile-cache": "^2.0.0",
-    "@amokrushin/webpack-hot-client": "^3.0.0",
     "webpack-log": "^1.1.2"
   },
   "devDependencies": {
